@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @lse2001
-- Here is where I share my code!
+- On here you'll find the code, projects, and contributions I am most proud of making!
